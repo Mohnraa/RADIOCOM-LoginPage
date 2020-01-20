@@ -1,3 +1,36 @@
 body{
-	
+	font-size: 16px; /*1em*/
+	min-width: 1024px;
+	max-width: 3140px;
+	width: 0px auto;
+}
+
+header{
+	background: blue;
+}
+
+header span{
+	color: white;
+	display: inline-block;
+	font-size: 1.5em;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+
+body section article{
+	width: 48%;
+	display: inline-block;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.larLetter{
+	font-size: 1.5em;
+}
+
+.medLetter{
+	font-size: 1.2em;
 }

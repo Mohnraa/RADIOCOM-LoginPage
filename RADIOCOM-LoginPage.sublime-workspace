@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
 				"lo",
 				"longitudeL"
 			],
@@ -59,7 +91,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 175,
+				"buffer_size": 819,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -68,7 +100,7 @@
 			"file": "css/styles.css",
 			"settings":
 			{
-				"buffer_size": 9,
+				"buffer_size": 419,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -159,7 +191,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -168,15 +200,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 175,
+						"buffer_size": 819,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								175,
-								175
+								320,
+								320
 							]
 						],
 						"settings":
@@ -184,10 +216,10 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 51.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -196,15 +228,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9,
+						"buffer_size": 419,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9,
-								9
+								383,
+								383
 							]
 						],
 						"settings":
@@ -215,7 +247,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
